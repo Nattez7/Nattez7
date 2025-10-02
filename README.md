@@ -14,17 +14,6 @@
   Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Bem-vindo ao meu perfil!
 </p>
 
-<p align="left">
-  <strong>Navegação Rápida:</strong><br>
-  • <a href="#-sobre-mim">Sobre Mim</a><br>
-  • <a href="#-habilidades">Habilidades</a><br>
-  • <a href="#-tecnologias">Tecnologias</a><br>
-  • <a href="#-estatísticas">Estatísticas</a><br>
-  • <a href="#-projetos">Projetos</a><br>
-  • <a href="#-certificações">Certificações</a><br>
-  • <a href="#-contato">Contato</a>
-</p>
-
 ## Sobre Mim
 
 Sou Nathan Oliveira, desenvolvedor Frontend de Teresópolis/RJ com 4 anos de experiência em programação. Comecei com projetos básicos em HTML, CSS e JavaScript, e agora estou investindo seriamente no meu crescimento profissional.
