@@ -12,11 +12,11 @@
   Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Bem-vindo ao meu perfil!
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 ## Sobre Mim
 
 Sou Nathan Oliveira, desenvolvedor Frontend de Teresópolis/RJ com 4 anos de experiência em programação. Comecei com projetos básicos em HTML, CSS e JavaScript, e agora estou investindo seriamente no meu crescimento profissional.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ### Foco Atual
 - Desenvolvendo meu TCC: **Cultura RPG**
