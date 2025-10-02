@@ -54,8 +54,8 @@ As seguintes ferramentas fazem parte do meu arsenal:
 
 ### Projetos em Destaque
 
-- **[🤖 Elysium BOT](https://github.com/Nattez7/elysium_bot)** - Bot desenvolvido para automação e interação voltado para RPG em Discord.
-- **[🎲 Cultura RPG](https://github.com/Nattez7/Cultura-RPG)** - Projeto de TCC focado em ensinar cultura através de RPG
+- **[Elysium BOT](https://github.com/Nattez7/elysium_bot)** - Bot desenvolvido para automação e interação voltado para RPG em Discord.
+- **[Cultura RPG](https://github.com/Nattez7/Cultura-RPG)** - Projeto de TCC focado em ensinar cultura através de RPG
 
 ## Certificações
 
