@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Nathan Oliveira!
+# Olá, eu sou Nathan Oliveira, ou Nattez, como preferir!
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🧭 <strong>Navegação Rápida:</strong><br>
+  <strong>Navegação Rápida:</strong><br>
   • <a href="#-sobre-mim">Sobre Mim</a><br>
   • <a href="#-habilidades">Habilidades</a><br>
   • <a href="#-tecnologias">Tecnologias</a><br>
@@ -25,24 +25,23 @@
   • <a href="#-contato">Contato</a>
 </p>
 
-## 📋 Sobre Mim
+## Sobre Mim
 
 Sou Nathan Oliveira, desenvolvedor Frontend de Teresópolis/RJ com 4 anos de experiência em programação. Comecei com projetos básicos em HTML, CSS e JavaScript, e agora estou investindo seriamente no meu crescimento profissional.
 
-### 🎯 Foco Atual
-- 🎓 Desenvolvendo meu TCC: **Cultura RPG**
-- 🤖 Trabalhando no projeto **Elysium BOT**
-- 📚 Estudando Node.js e aprofundando conhecimentos em Frontend
-- 🌱 Especializando em desenvolvimento Frontend
+### Foco Atual
+- Desenvolvendo meu TCC: **Cultura RPG**
+- Trabalhando no projeto **Elysium BOT**
+- Estudando Node.js e aprofundando conhecimentos em Frontend
+- Especializando em desenvolvimento Frontend
 
-## ✨ Habilidades
+## Habilidades
 
-- 💻 **Desenvolvimento**: Criação de aplicações web e sistemas
-- 🎨 **Design**: Interface de usuário intuitiva
-- 🔧 **Resolução de Problemas**: Análise e solução de desafios técnicos
-- 📈 **Aprendizado Contínuo**: Sempre em busca de conhecimento
+- **Desenvolvimento**: Criação de aplicações web
+- **Resolução de Problemas**: Análise e solução de desafios técnicos
+- **Aprendizado Contínuo**: Sempre em busca de conhecimento
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 As seguintes ferramentas fazem parte do meu arsenal:
 
@@ -55,49 +54,37 @@ As seguintes ferramentas fazem parte do meu arsenal:
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nattez7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattez7&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 🚀 Projetos
+## Projetos
 
-### 🌟 Projetos em Destaque
+### Projetos em Destaque
 
-- **🤖 Elysium BOT** - Bot desenvolvido para automação e interação
-- **🎲 Cultura RPG** - Projeto de TCC focado em cultura de RPG
+- **🤖 Elysium BOT** - Bot desenvolvido para automação e interação voltado para RPG em Discord.
+- **🎲 Cultura RPG** - Projeto de TCC focado em ensinar cultura através de RPG
 
-```javascript
-const nathan = {
-  nome: "Nathan Oliveira",
-  localizacao: "Teresópolis/RJ",
-  foco: "Frontend Development",
-  estudando: ["Node.js", "JavaScript", "HTML", "CSS", "Python"],
-  objetivo: () => {
-    return "Criar experiências web incríveis!";
-  }
-};
-```
+## Certificações
 
-## 📜 Certificações
+- **Segurança em Tecnologia da Informação** - Fundação Bradesco
 
-- 🔒 **Segurança em Tecnologia da Informação** - Fundação Bradesco
-
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattez7&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
-## 📫 Contato
+## Contato
 
 Vamos conversar sobre tecnologia e oportunidades!
 
-- 📧 **Email**: contato.oliveiradebrito@gmail.com
-- 💼 **GitHub**: [@Nattez7](https://github.com/Nattez7)
-- 🌐 **Portfólio**: Em desenvolvimento...
+- **Email**: contato.oliveiradebrito@gmail.com
+- **GitHub**: [@Nattez7](https://github.com/Nattez7)
+- **Portfólio**: Em desenvolvimento...
 
 ---
 
@@ -113,11 +100,5 @@ Vamos conversar sobre tecnologia e oportunidades!
   
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato.oliveiradebrito@gmail.com)
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Nattez7)
-  
-</div>
-
-<div align="center">
-  
-  **"Código é poesia em movimento"** 💻✨
   
 </div>
