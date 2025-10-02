@@ -65,19 +65,11 @@ As seguintes ferramentas fazem parte do meu arsenal:
 ## Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattez7&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nattez7&theme=dark&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nattez7&theme=github_dark" width="100%"/>
 </div>
 
 ## Contato
