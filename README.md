@@ -84,6 +84,10 @@ As seguintes ferramentas fazem parte do meu arsenal:
 </div>
 
 <div align="center">
+  <img src="https://github.com/Nattez7/Nattez7/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nattez7&theme=github_dark" width="100%"/>
 </div>
 
