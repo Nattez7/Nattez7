@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Nattez7?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Nattez7?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Nattez7&color=blue)
+![Seguidores](https://img.shields.io/github/followers/Nattez7?style=social&label=Seguidores)
+![Estrelas](https://img.shields.io/github/stars/Nattez7?style=social&label=Estrelas)
+![Visualizações](https://komarev.com/ghpvc/?username=Nattez7&color=blue&label=Visualizações)
 
 </div>
 
@@ -91,9 +91,9 @@ As seguintes ferramentas fazem parte do meu arsenal:
 
 Vamos conversar sobre tecnologia e oportunidades!
 
-- **Email**: contato.oliveiradebrito@gmail.com
-- **GitHub**: [@Nattez7](https://github.com/Nattez7)
-- **Portfólio**: Em desenvolvimento...
+- 📧 **Email**: contato.oliveiradebrito@gmail.com
+- 💼 **GitHub**: [@Nattez7](https://github.com/Nattez7)
+- 🌐 **Portfólio**: Em desenvolvimento...
 
 ---
 
@@ -107,7 +107,7 @@ Vamos conversar sobre tecnologia e oportunidades!
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato.oliveiradebrito@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato.oliveiradebrito@gmail.com)
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Nattez7)
   
 </div>
