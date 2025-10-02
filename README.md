@@ -15,8 +15,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ## Sobre Mim
-<p>
-</p>
 
 Sou Nathan Oliveira, atendo por Nattez também, atualmente estou cursando Ciência da Computação no 8° período, buscando conhecimento para me tornar desenvolvedor Frontend, sou de Teresópolis/RJ com pouca experiência em programação. Sempre me interessei por criar algo e dar certo, então estou em busca de sempre melhorar e cada vez mais criar coisas novas que possam ajudar pelo menos uma pessoa.
 
@@ -56,8 +54,8 @@ As seguintes ferramentas fazem parte do meu arsenal:
 
 ### Projetos em Destaque
 
-- **Elysium BOT** - Bot desenvolvido para automação e interação voltado para RPG em Discord.
-- **Cultura RPG** - Projeto de TCC focado em ensinar cultura através de RPG
+- **[🤖 Elysium BOT](https://github.com/Nattez7/elysium_bot)** - Bot desenvolvido para automação e interação voltado para RPG em Discord.
+- **[🎲 Cultura RPG](https://github.com/Nattez7/Cultura-RPG)** - Projeto de TCC focado em ensinar cultura através de RPG
 
 ## Certificações
 
