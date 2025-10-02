@@ -21,17 +21,19 @@
   • <a href="#-tecnologias">Tecnologias</a><br>
   • <a href="#-estatísticas">Estatísticas</a><br>
   • <a href="#-projetos">Projetos</a><br>
+  • <a href="#-certificações">Certificações</a><br>
   • <a href="#-contato">Contato</a>
 </p>
 
 ## 📋 Sobre Mim
 
-Sou Nathan Oliveira, desenvolvedor em constante evolução, sempre buscando aprender novas tecnologias e criar soluções inovadoras.
+Sou Nathan Oliveira, desenvolvedor Frontend de Teresópolis/RJ com 4 anos de experiência em programação. Comecei com projetos básicos em HTML, CSS e JavaScript, e agora estou investindo seriamente no meu crescimento profissional.
 
 ### 🎯 Foco Atual
-- 💻 Desenvolvendo projetos pessoais
-- 📚 Estudando novas tecnologias
-- 🌱 Crescendo como desenvolvedor
+- 🎓 Desenvolvendo meu TCC: **Cultura RPG**
+- 🤖 Trabalhando no projeto **Elysium BOT**
+- 📚 Estudando Node.js e aprofundando conhecimentos em Frontend
+- 🌱 Especializando em desenvolvimento Frontend
 
 ## ✨ Habilidades
 
@@ -46,10 +48,11 @@ As seguintes ferramentas fazem parte do meu arsenal:
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ## 📊 Estatísticas
@@ -61,18 +64,26 @@ As seguintes ferramentas fazem parte do meu arsenal:
 
 ## 🚀 Projetos
 
-### Principais Repositórios
+### 🌟 Projetos em Destaque
+
+- **🤖 Elysium BOT** - Bot desenvolvido para automação e interação
+- **🎲 Cultura RPG** - Projeto de TCC focado em cultura de RPG
 
 ```javascript
 const nathan = {
   nome: "Nathan Oliveira",
-  github: "Nattez7",
-  paixao: "Desenvolvimento",
+  localizacao: "Teresópolis/RJ",
+  foco: "Frontend Development",
+  estudando: ["Node.js", "JavaScript", "HTML", "CSS", "Python"],
   objetivo: () => {
-    return "Criar soluções incríveis!";
+    return "Criar experiências web incríveis!";
   }
 };
 ```
+
+## 📜 Certificações
+
+- 🔒 **Segurança em Tecnologia da Informação** - Fundação Bradesco
 
 ## 🐍 Contribuições
 
