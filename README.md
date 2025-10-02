@@ -73,7 +73,7 @@ As seguintes ferramentas fazem parte do meu arsenal:
 </div>
 
 <div align="center">
-  <img src="https://github.com/Nattez7/Nattez7/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
