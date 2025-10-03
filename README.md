@@ -56,6 +56,7 @@ As seguintes ferramentas fazem parte do meu arsenal:
 
 - **[Elysium BOT](https://github.com/Nattez7/elysium_bot)** - Bot desenvolvido para automação e interação voltado para RPG em Discord.
 - **[Cultura RPG](https://github.com/Nattez7/Cultura-RPG)** - Projeto de TCC focado em ensinar cultura através de RPG
+- **[Otimizador PSQL](https://github.com/Nattez7/OtimizadorPSQL)** - Um projeto capaz de otimizar um banco de dados em PostgreSQL com base nas informações da máquina servidora.
 
 ## Certificações
 
